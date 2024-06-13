@@ -1,0 +1,9 @@
+{
+  "id": "osc",
+  "name": "Obsidian Syllable Counter",
+  "description": "Counts syllables of the current line and places it at the end",
+  "author": "Safe",
+
+  "minAppVersion": "0.11.0",
+  "version": "0.0.1"
+}
